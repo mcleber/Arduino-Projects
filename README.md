@@ -7,3 +7,5 @@ Some Arduino projects from my old blog.
 ## Projects
 
 1) Line Follower Robot
+2) Read and Write I2C EEPROM Memories
+3) Controlling Robot with Arduino, Bluetooth and Android
