@@ -1,4 +1,4 @@
-# ArduinoProjects
+# Arduino Projects
 
 Some Arduino projects from my old blog.
 
@@ -10,7 +10,7 @@ Some Arduino projects from my old blog.
 2) Read and Write I2C EEPROM Memories
 3) Controlling Robot with Arduino, Bluetooth and Android
 
-## Useful links
+### Useful links
 [Arduino](https://www.arduino.cc)
 
 [Fritzing](https://fritzing.org)
