@@ -18,9 +18,7 @@ Monte os sensores, o Arduino e o proto shield no chassis.
 
 Recomenda-se que o sensor fique a 3mm de distância da superfície.
 
-Abaixo está o esquema de ligação do L293D e dos sensores no Arduino.
-
-![](https://github.com/mcleber/Arduino-Projects/blob/main/Line-Follower-Robot/assets/diagrama_eletrico.png)
+O esquema de ligação do L293D e dos sensores no Arduino encontra-se no diretório "assets".
 
 ### Teste
 Respeitando o espaçamento entre os sensores, faça um traçado/pista com fita isolante em uma superfície branca e conecte a alimentação ao Arduino.
