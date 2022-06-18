@@ -1,5 +1,5 @@
 /*-------------------------------------------------------
- * CONTROLANDO CARRINHO COM ARDUINO, BLUETOOTH E ANDROID
+ * CONTROLANDO ROBÔ COM ARDUINO, BLUETOOTH E ANDROID
  *-------------------------------------------------------
  * Desativar o modulo Bluetooth antes de fazer upload!
  * O módulo utiliza os pinos Tx e Rx do arduino e gera 
