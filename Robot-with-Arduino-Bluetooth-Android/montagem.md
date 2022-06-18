@@ -24,7 +24,7 @@ O esquema de ligação está no diretório "assets".
 ### Aplicativo Android
 O aplicativo utilizado no controle do robô foi elaborado através do MIT App Inventor.
 
-No diretório "assets" encontram-se o App "ControleCarrinhoBC.apk" pronto para instalar no celular/tablet e também um breve tutorial em PDF caso queira fazer do zero.
+No diretório "assets" encontram-se o App "ControleRoboBC.apk" pronto para instalar no celular/tablet e também um breve tutorial em PDF caso queira fazer do zero.
 
 ### Teste
 Conecte a alimentação do robô. Perceba que o led do módulo Bluetooth começa a piscar. 
