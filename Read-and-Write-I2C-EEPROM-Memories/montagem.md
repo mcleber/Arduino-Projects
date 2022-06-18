@@ -18,6 +18,7 @@ O esquema de ligação das memórias no Arduino encontra-se no diretório "asset
 ### Teste
 Conecte o Arduino na USB e abra o Serial Monitor.
 
+![](https://github.com/mcleber/Arduino-Projects/blob/main/Read-and-Write-I2C-EEPROM-Memories/assets/serial_monitor.png)
 
 Note que pelo código fonte disponibilizado, estamos escrevendo os endereços 0x51 e 0x52 nas memórias. Assim, estas serão as informações apresentadas no teste. Pode-se modificar a saída de HEX (hexadecimal) para OCT (octal) ou DEC (decimal), alterando a apresentação dos dados.
 
