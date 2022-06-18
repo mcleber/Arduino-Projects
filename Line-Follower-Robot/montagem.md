@@ -12,7 +12,7 @@
 - Parafusos com espaçadores para fixar o Arduino no chassis.
 
 ### Montagem
-Copie o código localizado no diretório "sourfeFile" no Arduino.
+Copie o código localizado no diretório "sourfeFile" e faça o upload no Arduino.
 
 Monte os sensores, o Arduino e o proto shield no chassis.
 
