@@ -15,7 +15,7 @@ Este é um projeto antigo e na ocasião foi testado no Android v.2.2 e v.4.2.
 - Parafusos com espaçadores para fixar o Arduino no chassis. 
 
 ### Montagem
-Copie o código localizado no diretório "sourfeFile" e faça o upload no Arduino.
+Copie o código localizado no diretório "sourceFile" e faça o upload no Arduino.
 
 Monte o L293D, o módulo bluetooth, o conversor de nível, o proto shield e o Arduino no chassis.
 
