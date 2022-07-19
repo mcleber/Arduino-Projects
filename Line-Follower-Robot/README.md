@@ -18,7 +18,7 @@ Monte os sensores, o Arduino e o proto shield no chassis.
 
 Recomenda-se que o sensor fique a 3mm de distância da superfície.
 
-O esquema de ligação do L293D e dos sensores no Arduino encontra-se no diretório "assets".
+O esquema de ligação do L293D e dos sensores no Arduino encontram-se no diretório "assets".
 
 ### Teste
 Respeitando o espaçamento entre os sensores, faça um traçado/pista com fita isolante em uma superfície branca e conecte a alimentação ao Arduino.
