@@ -1,7 +1,7 @@
 # Controlando Robô com Arduino, Bluetooth e Android
 ## Controlling Robot with Arduino, Bluetooth and Android
 
-Este é um projeto antigo e na ocasião foi testado no Android v.2.2 e v.4.2.
+Este é um projeto antigo e foi testado no Android v.2.2 e v.4.2.
 
 ### Materiais
 - 1 Kit do chassis Zumo da Pololu com motores;
